@@ -1,23 +1,27 @@
 {
-  "id": "zathin",
-  "name": "Zathin",
-  "categoryId": "platform",
-  "description": "Innovative even-keeled conglomeration",
-  "investment_24m": "466",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Elsworth Attkins",
-  "licensing_cost": "80",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "150",
-  "deployment_date": "14/2/10",
-  "end_of_maintenance": "2/7/17",
-  "department": "Marketing",
-  "status": "Active",
-  "end_of_life": "22/10/18",
-  "vendor_email": "Elsworth.Attkins@DassaultSystems.com",
-  "months_to_renew_support": "8",
-  "sme_email": "Shel.Pattesall@memento.net.au",
-  "vendor_phone": "+55 598 146 6701",
-  "investment_number": "236"
+  "applications": [
+    {
+      "id": "zathin",
+      "name": "Zathin",
+      "categoryId": "platform",
+      "description": "Innovative even-keeled conglomeration",
+      "investment_24m": "466",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Elsworth Attkins",
+      "licensing_cost": "80",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "150",
+      "deployment_date": "14/2/10",
+      "end_of_maintenance": "2/7/17",
+      "department": "Marketing",
+      "status": "Active",
+      "end_of_life": "22/10/18",
+      "vendor_email": "Elsworth.Attkins@DassaultSystems.com",
+      "months_to_renew_support": "8",
+      "sme_email": "Shel.Pattesall@memento.net.au",
+      "vendor_phone": "+55 598 146 6701",
+      "investment_number": "236"
+    }
+  ]
 }
