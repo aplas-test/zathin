@@ -28,7 +28,6 @@
           "name": "INT-037",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Integer tincidunt ante vel ipsum.",
-          "sourceApplicationId": "zathin",
           "targetApplicationId": "veribet",
           "logical_server": "CLOUD-A2A",
           "status_color": "#00FF00",
